@@ -38,7 +38,7 @@ This project is my personal portfolio website designed to highlight my expertise
 To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository
-   git clone https://github.com/yourusername/personal-front-end-site.git
+   git clone https://github.com/BytesHouse/my-site
 2. Navigate to the project directory
    cd personal-front-end-site
 3. Install NPM packages
